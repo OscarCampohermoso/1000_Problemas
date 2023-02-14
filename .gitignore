@@ -5,6 +5,7 @@ node_modules/
 .ipynb_checkpoints
 *.tsbuildinfo
 jupyterlab_git/labextension
+*.jupyterlab-workspace
 
 src/version.ts
 
